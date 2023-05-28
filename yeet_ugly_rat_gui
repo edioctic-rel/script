@@ -33,7 +33,7 @@ local function notif(str,dur)
 	game:FindService("StarterGui"):SetCore("SendNotification", {
 		Title = "yeet da rat gui",
 		Text = str,
-		Icon = "rbxassetid://13577613928",
+		Icon = "rbxassetid://13577613863",
 		Duration = dur or 3
 	})
 end
@@ -59,7 +59,7 @@ Main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Main.BorderSizePixel = 0
 Main.Position = UDim2.new(0.174545452, 0, 0.459574461, 0)
 Main.Size = UDim2.new(0, 454, 0, 218)
-Main.Image = "rbxassetid://13577683722"
+Main.Image = "rbxassetid://13577683671"
  
 Top.Name = "Top"
 Top.Parent = Main
