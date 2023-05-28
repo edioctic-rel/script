@@ -99,7 +99,8 @@ TextButton.BorderSizePixel = 0
 TextButton.Position = UDim2.new(0.10352423, 0, 0.596330225, 0)
 TextButton.Size = UDim2.new(0, 359, 0, 50)
 TextButton.Font = Enum.Font.FredokaOne
-TextButton.Text = "Yeet rat"
+TextButton.Text = "Yeet da ugly rat
+(Warning: if you reset your character will stick to the player that you want to yeet)"
 TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.TextScaled = true
 TextButton.TextSize = 14.000
